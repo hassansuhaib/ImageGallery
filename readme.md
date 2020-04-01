@@ -1,0 +1,1 @@
+This site was made only to practice working with Bootstrap 3 to understand the grid system and how to apply your own CSS to give the site a unique identity. 
